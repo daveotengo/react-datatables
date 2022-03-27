@@ -8,7 +8,9 @@ This is done by using react's own recommnded approach of `render() { return <tab
 
 https://datatables.net/
 
-npm install datatables.net-buttons-dt --save
+npm install datatables.
+
+net-buttons-dt --save
 
 npm install jzip --save 
 
